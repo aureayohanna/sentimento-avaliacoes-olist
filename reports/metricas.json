@@ -1,0 +1,13 @@
+{
+  "modelo": "Regressão Logística",
+  "cv_f1_negativo": {
+    "baseline (classe mais comum)": 0.0,
+    "Naive Bayes": 0.8868,
+    "Regressão Logística": 0.8944,
+    "SVM linear": 0.8867
+  },
+  "teste_f1_negativo": 0.8847,
+  "teste_f1_macro": 0.9115,
+  "n_treino": 24760,
+  "n_teste": 6191
+}
